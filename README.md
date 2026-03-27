@@ -14,4 +14,4 @@ powered by gemini 2.5 for real-time validation <br>
 *C++17 In Detail* by Bartłomiej Filipek <br>
 _OSTEP_ by Remzi H., & Andrea C. <br>
 
-🎓 **education:** mechatronics engineering @ mcmaster university
+🎓 **education:** engineering @ mcmaster university
