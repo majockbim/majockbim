@@ -11,4 +11,3 @@ systems swe | embedded firmware | robotics
 **reading:** *C++17 In Detail*, *OSTEP* | **education:** McMaster Engineering
 
 [personal site](https://majockbim.com) | [linkedin](https://www.linkedin.com/in/majockbim/)
-https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
