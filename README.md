@@ -6,7 +6,7 @@ systems swe | embedded firmware | robotics
 
 **latest:** [physio](https://github.com/majockbim/physio) — clinical stroke rehab device (**ESP32** + dual **IMU**, **BLE** pipeline, **1D CNN** on-device)
 
-**building:** [magnetism](https://github.com/majockbim/magnetism) — distributed physics engine (**C++/Eigen** + **Go** API + **React**)
+**building:** [magnetism](https://github.com/majockbim/magnetism) — physics engine in C++
 
 **reading:** *C++17 In Detail*, *OSTEP* | **education:** McMaster Engineering
 
