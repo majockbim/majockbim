@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="212">
+<td valign="top" width="200">
 
 <img src="assets/hummingbird.jpg" width="260">
 
