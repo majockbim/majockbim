@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td valign="top" width="200">
+<td valign="top" width="212">
 
-<img src="assets/hummingbird.jpg" width="260">
+<img src="assets/hummingbird.jpg" width="212">
 
 </td>
 <td valign="top">
@@ -16,7 +16,7 @@
 │  currently   embedded swe @ <a href="https://www.macexo.com/">mcmaster exoskeleton</a>                        │
 │  strengths   C++17, Embedded C/C++, real-time systems                   │
 │  hardware    STM32 Bare-Metal · ESP32 · Altium PCBA · CAN · DMA         │
-│  fun fact    i like birds
+│  fun fact    i like birds                                               │
 │                                                                         │
 ╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
 
