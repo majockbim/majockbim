@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
 
 <table>
@@ -11,9 +12,9 @@
 
 <pre><code>╭─ mj@github ─────────────────────────────────────────────────────────────╮
 │                                                                         │
-│  studying    mechatronics engineering @  <a href="https://www.eng.mcmaster.ca/">mcmaster university</a>            │
+│  studying    mechatronics engineering @  <a href="https://www.eng.mcmaster.ca/">McMaster University</a>            │
 │  interests   systems programming, embedded firmware, robotics           │
-│  currently   embedded swe @ <a href="https://www.macexo.com/">mcmaster exoskeleton</a>                        │
+│  currently   embedded swe @ <a href="https://www.macexo.com/">McMaster Exoskeleton</a>                        │
 │  strengths   C++17, Embedded C/C++, real-time systems                   │
 │  hardware    STM32 Bare-Metal · ESP32 · Altium PCBA · CAN · DMA         │
 │  fun fact    i like birds                                               │
@@ -25,6 +26,7 @@
 </table>
 
 </p>
+</div>
 
 ---
 
@@ -32,12 +34,12 @@
 
 ### highlights
 - **[physio](https://github.com/majockbim/physio)** &emsp; &ensp; edge AI stroke rehab sleeve · 90.5% CNN on ESP32-C3
-- **[spectrum](https://github.com/majockbim/spectrum)** &ensp; open source C++17 terminal audio visualizer · v1.1.0
+- **[spectrum](https://github.com/majockbim/spectrum)** &ensp; open source C++17 terminal audio visualizer · v1.2.0
 - **[lodestone](https://github.com/majockbim/lodestone)** &ensp;magnetic physics simulation in C++17
 
 ---
 
-### tech as of late
+### tools lately
 <p align="center">
 
 ![C++](https://img.shields.io/badge/c++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
