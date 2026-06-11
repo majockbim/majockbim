@@ -33,7 +33,7 @@
 
 
 ### highlights
-- **[physio](https://github.com/majockbim/physio)** &emsp; &ensp; edge AI stroke rehab sleeve · 90.5% CNN on ESP32-C3
+- **[physio](https://github.com/majockbim/physio)** &emsp; &ensp; stroke rehab sleeve · 90.5% CNN · ESP32-C3 + iOS edge inference
 - **[spectrum](https://github.com/majockbim/spectrum)** &ensp; open source C++17 terminal audio visualizer · v1.2.0
 - **[lodestone](https://github.com/majockbim/lodestone)** &ensp;magnetic physics simulation in C++17
 
@@ -45,7 +45,7 @@
 ![C++](https://img.shields.io/badge/c++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
 ![C](https://img.shields.io/badge/c-%231e1e2e?style=for-the-badge&logo=c&logoColor=a6e3a1)
 ![Go](https://img.shields.io/badge/go-%231e1e2e.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![Figma](https://img.shields.io/badge/figma-%231e1e2e?style=for-the-badge&logo=figma&logoColor=cba6f7)
 ![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
 ![Git](https://img.shields.io/badge/git-%231e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
 ![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
