@@ -14,7 +14,7 @@
 │                                                                         │
 │  studying    mechatronics engineering @  <a href="https://www.eng.mcmaster.ca/">McMaster University</a>            │
 │  interests   systems programming, embedded firmware, robotics           │
-│  currently   embedded swe @ <a href="https://www.macexo.com/">McMaster Exoskeleton</a>                        │
+│  currently   Embedded & Controls Lead @ <a href="https://www.macexo.com/">McMaster Exoskeleton</a>            │
 │  strengths   C++17, Embedded C/C++, real-time systems                   │
 │  hardware    STM32 Bare-Metal · ESP32 · Altium PCBA · CAN · DMA         │
 │  fun fact    i like birds                                               │
