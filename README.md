@@ -35,7 +35,7 @@
 ### highlights
 - **[physio](https://github.com/majockbim/physio)** &emsp; &ensp; stroke rehab sleeve · 90.5% CNN · ESP32-C3 + iOS edge inference
 - **[spectrum](https://github.com/majockbim/spectrum)** &ensp; open source C++17 terminal audio visualizer · v1.2.0
-- **[lodestone](https://github.com/majockbim/lodestone)** &ensp;magnetic physics simulation in C++17
+- **[lodestone](https://github.com/majockbim/lodestone)** &ensp;magnetic physics simulation in C++17 (in progress)
 
 ---
 
