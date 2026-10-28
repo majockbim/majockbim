@@ -9,10 +9,3 @@
 ### I have built
 \> [physio](https://github.com/majockbim/physio) at LA Hacks 2026 - a stroke rehabilitation wearable (ESP32, BLE) <br>
 \> [spectrum](https://github.com/majockbim/spectrum) - an audio visualizer that runs in your terminal (C++17) <br>
-
-<div align="center">
-<p align="center">
-  
-[majockbim.com](https://majockbim.com/)
-
-</div>
