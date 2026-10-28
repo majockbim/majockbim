@@ -1,64 +1,18 @@
+## Majock Bim
+
+### I am
+\> Studying Mechatronics Engineering @ [McMaster University](https://www.eng.mcmaster.ca/cas/degree-options/mechatronics/) <br>
+\> Embedded & Controls Software Lead @ [McMaster Exoskeleton](https://www.macexo.com/) <br>
+\> Co-Founder @ [ML³](https://ml3labs.com/) - building McMasters first performance-focused club <br>
+\> Currently building [lodestone]() - a magnetic field simulator in C++
+
+### I have built
+\> [physio](https://github.com/majockbim/physio) at LA Hacks 2026 - a stroke rehabilitation wearable (ESP32, BLE) <br>
+\> [spectrum](https://github.com/majockbim/spectrum) - an audio visualizer that runs in your terminal (C++17) <br>
+
 <div align="center">
 <p align="center">
+  
+[majockbim.com](https://majockbim.com/)
 
-<table>
-<tr>
-<td valign="top" width="212">
-
-<img src="assets/hummingbird.jpg" width="212">
-
-</td>
-<td valign="top">
-
-<pre><code>╭─ mj@github ─────────────────────────────────────────────────────────────╮
-│                                                                         │
-│  studying    mechatronics engineering @  <a href="https://www.eng.mcmaster.ca/">McMaster University</a>            │
-│  interests   systems programming, embedded firmware, robotics           │
-│  currently   Embedded & Controls Lead @ <a href="https://www.macexo.com/">McMaster Exoskeleton</a>            │
-│  strengths   C++17, Embedded C/C++, real-time systems                   │
-│  hardware    STM32 Bare-Metal · ESP32 · Altium PCBA · CAN · DMA         │
-│  fun fact    i like birds                                               │
-│                                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯</code></pre>
-
-</td>
-</tr>
-</table>
-
-</p>
 </div>
-
----
-
-
-
-### highlights
-- **[physio](https://github.com/majockbim/physio)** &emsp; &ensp; stroke rehab sleeve · 90.5% CNN · ESP32-C3 + iOS edge inference
-- **[spectrum](https://github.com/majockbim/spectrum)** &ensp; open source C++17 terminal audio visualizer · v1.2.0
-- **[lodestone](https://github.com/majockbim/lodestone)** &ensp;magnetic physics simulation in C++17 (in progress)
-
----
-
-### tools lately
-<p align="center">
-
-![C++](https://img.shields.io/badge/c++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
-![C](https://img.shields.io/badge/c-%231e1e2e?style=for-the-badge&logo=c&logoColor=a6e3a1)
-![Go](https://img.shields.io/badge/go-%231e1e2e.svg?style=for-the-badge&logo=go&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%231e1e2e?style=for-the-badge&logo=figma&logoColor=cba6f7)
-![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
-![Git](https://img.shields.io/badge/git-%231e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
-![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
-![Linux](https://img.shields.io/badge/linux-%231e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
-![Docker](https://img.shields.io/badge/docker-%231e1e2e?style=for-the-badge&logo=docker&logoColor=74c7ec)
-![ROS](https://img.shields.io/badge/ros2-%231e1e2e?style=for-the-badge&logo=ros&logoColor=f38ba8)
-
-</p>
-
----
-
-### on the shelf
-- [C++: A Beginner's Guide](https://archive.org/details/cbeginnersguide0000schi_u5h9) &emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; _Herbert Schildt_
-- [C++17 in Detail](https://www.cppindetail.com/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&emsp; _Bartłomiej Filipek_
-- [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&nbsp; _Scott Meyers_
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                   &emsp;_Arpaci-Dusseau_
